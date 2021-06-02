@@ -13,7 +13,7 @@ html{
 body{
 	width: 100%;
 	
-	background-color: black;
+	background-color: white;
 
 	min-height:100vh; 
 
@@ -103,7 +103,7 @@ footer {
     padding: 3%;
     text-align: center;
     
-	background:#21221F;
+	background:blue;
 	z-index: 0;
 
 }
