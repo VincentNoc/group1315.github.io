@@ -99,11 +99,11 @@ body{
 footer {
 	position: absolute;
 	margin-top: 0%;
-	width:96%;
+	width:94%;
     padding: 3%;
     text-align: center;
     
-	background:blue;
+	background:#21221F;
 	z-index: 0;
 
 }
