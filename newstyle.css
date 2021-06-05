@@ -185,3 +185,26 @@ p{
 .t-indent{
 	text-indent: 250px;
 }
+
+.bold{
+	font-weight: bold;
+}
+
+table {
+  font-family: 'Roboto', sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 5%;
+}
+
+td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: white;
+}
