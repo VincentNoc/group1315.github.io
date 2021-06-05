@@ -208,3 +208,10 @@ td, th {
 tr:nth-child(even) {
   background-color: white;
 }
+
+.container{
+	border: solid #1abc9c 0.2rem;
+	margin:auto;
+	width:60%;
+	padding:10px;
+}
