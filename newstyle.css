@@ -215,3 +215,7 @@ tr:nth-child(even) {
 	width:60%;
 	padding:10px;
 }
+
+.t-center{
+	text-align: center;
+}
